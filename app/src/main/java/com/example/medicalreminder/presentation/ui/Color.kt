@@ -1,4 +1,4 @@
-package com.example.medicalreminder.ui.theme
+package com.example.medicalreminder.presentation.ui
 
 import androidx.compose.ui.graphics.Color
 
